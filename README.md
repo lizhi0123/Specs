@@ -14,3 +14,4 @@ http://www.cnblogs.com/wengzilin/p/4760472.html
  podspec 参考 http://www.jianshu.com/p/8a7b9232cbab
 
 
+CocoaPods基础篇之创建私有 repo http://blog.csdn.net/xiaofei125145/article/details/50624578
